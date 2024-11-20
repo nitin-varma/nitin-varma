@@ -1,11 +1,10 @@
 # May the odds be ever in your favour, My Dear Mockingbird 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Lokesh-Balamurugan/Lokesh-Balamurugan/blob/main/TITANS%20%22Doom%20Patrol%22%20Images%20Feature%20Our%20First%20Proper%20Look%20At%20DC%20Universe's%20Second%20Superhero%20Team.gif" alt="Obi-wan Kenobi" width="380px">
-  <img src="https://github.com/Lokesh-Balamurugan/Lokesh-Balamurugan/blob/main/Let%20your%20imagination%20run%20wild.gif" alt="Anakin" width="460px">
+
 </div>
 
-## 🌌 About the Jedi Within
+## 🌌 About
 
 🪄 Identity: In the grand library of magic and wisdom, I am a graduate student wizard, spellbound by the enchanted volumes of data science. Here, I'm drawn to the ancient arts of machine learning, deep learning, and image processing. When it comes to data and innovation, consider me the eager apprentice, always ready to turn the next page.
 
