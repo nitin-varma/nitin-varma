@@ -10,16 +10,6 @@ I am a passionate **Data Scientist and Machine Learning Engineer** with expertis
 
 ---
 
-### 🚀 Currently Working On  
-- **[Implementing Graph RAG Using KGs and Vector Databases](#)**  
-  _Building a Graph RAG model that enhances retrieval-based question-answering systems with knowledge graphs._  
-- **[Pneumonia Detection using CNN](#)**  
-  _Developed a CNN-based model to detect pneumonia with an accuracy of 92.6%._  
-- **[Optimizing Credit Scoring with Reinforcement Learning](#)**  
-  _Developed a Q-learning-based RL model to optimize credit score acceptance thresholds, increasing lender profits by 15%._
-
----
-
 ### 🔥 Key Projects  
 - **[Global Emission Analysis](#)**  
   _Analyzed 500,000+ data points on greenhouse gas emissions and predicted future trends with 85% accuracy._  
@@ -28,7 +18,13 @@ I am a passionate **Data Scientist and Machine Learning Engineer** with expertis
 - **[Food Inspection Data Engineering](#)**  
   _Optimized food safety data processing and visualized insights using Power BI._  
 - **[Data Profiling & Visualization for 311 Call Centers](#)**  
-  _Analyzed and visualized 500,000+ service requests using Alteryx, Power BI, and SQL._  
+  _Analyzed and visualized 500,000+ service requests using Alteryx, Power BI, and SQL._
+- **[Implementing Graph RAG Using KGs and Vector Databases](#)**  
+  _Building a Graph RAG model that enhances retrieval-based question-answering systems with knowledge graphs._  
+- **[Pneumonia Detection using CNN](#)**  
+  _Developed a CNN-based model to detect pneumonia with an accuracy of 92.6%._  
+- **[Optimizing Credit Scoring with Reinforcement Learning](#)**  
+  _Developed a Q-learning-based RL model to optimize credit score acceptance thresholds, increasing lender profits by 15%._
 
 ---
 
@@ -68,13 +64,6 @@ I am a passionate **Data Scientist and Machine Learning Engineer** with expertis
 ### 🏆 Certifications  
 - **AWS Cloud Foundation**  
 - **AWS AI & Machine Learning Foundations**  
-
----
-
-### 🎥 Featured Videos  
-📌 **[Global Emission Analysis - Data Science](https://www.youtube.com/watch?v=fvHakowMq7U)**  
-📌 **[Credit Scoring with Reinforcement Learning](https://www.youtube.com/watch?v=JoAuyeNXPDI)**  
-📌 **[Pneumonia Detection using CNN](https://www.youtube.com/watch?v=tF2uorNeTQI)**  
 
 ---
 
