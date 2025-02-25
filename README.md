@@ -6,7 +6,7 @@
 I am a passionate **Data Scientist and Machine Learning Engineer** with expertise in **AI, Data Analytics, and Software Engineering**. I am currently pursuing my **Master’s in Computer Software Engineering at Northeastern University, Boston**. My experience spans **quantitative research, data engineering, predictive modeling, and AI-driven solutions**.
 
 - **Looking for collaborations** in GenAI, LLMs, Data Science, and AI-driven innovations.  
-- Connect with me on **[LinkedIn](https://linkedin.com/in/nitin-varma-indukuri)** or via email at **indukuri.n@northeastern.edu**.
+- Connect with me on **[LinkedIn](https://linkedin.com/in/nitin-varma-indukuri)** or via email at **nitinvarma9515@gmail.com**.
 
 ---
 
