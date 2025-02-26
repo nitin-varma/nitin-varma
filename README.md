@@ -42,9 +42,6 @@ I am a passionate **Data Scientist and Machine Learning Engineer** with expertis
   📖 **IEEE ICAISS 2023** | [DOI: 10.1109/ICAISS58487.2023.10250609](https://doi.org/10.1109/ICAISS58487.2023.10250609)  
 
 ---
-
-### 🛠️ Skills & Technologies  
-
 ### 🛠️ Skills & Technologies  
 
 #### **Programming & Data Science**  
