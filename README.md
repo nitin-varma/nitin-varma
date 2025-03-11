@@ -13,6 +13,8 @@ I am a passionate **Data Scientist and Machine Learning Engineer** with expertis
 ### 🔥 Key Projects  
 
 #### 🤖 AI  
+- **[Research Assistant Platform using Airflow, FastAPI, Streamlit, Snowflake, AWS S3, Docker, and NVIDIA Multi-Modal RAG](#)**  
+  _Developed an automated data ingestion and analytics platform, reducing processing times by **60%**, accelerating user interactions by **70%**, and enabling intuitive exploration of CFA Institute publications._
 - **[Implementing Graph RAG Using KGs and Vector Databases](#)**  
   _Built a Graph RAG model that enhances retrieval-based question-answering systems with knowledge graphs._  
 
