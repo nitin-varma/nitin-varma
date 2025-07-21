@@ -90,7 +90,7 @@ I am a passionate **Data Scientist and Machine Learning Engineer** with expertis
 
 ### 📬 Connect with Me  
 🔗 **[LinkedIn](https://linkedin.com/in/nitin-varma-indukuri)**  
-📧 **nitinvarma9515@gmail.com**  
+📧 **indukurinitin52@gmail.com**  
 📁 **[GitHub](https://github.com/nitinvarma)**  
 
 ---
