@@ -23,6 +23,7 @@ With a strong academic and professional foundation, I aim to drive innovation at
 LLM Fine-Tuning (**LoRA**, **PEFT**, **QLoRA**) • Retrieval-Augmented Generation (**LangChain**, **Knowledge Graphs**) •  
 MLOps (**Airflow**, **MLflow**, **Docker**, **FastAPI**) • Cloud AI (**AWS**, **Snowflake**, **Triton**) •  
 Multi-Modal AI (**Vision-Language Integration**)  
+
 ---
 
 ### 🧩 Featured Projects  
@@ -122,6 +123,7 @@ I’m continuously expanding my expertise in emerging areas of **Applied AI** an
 - 📊 LLM Evaluation Frameworks (**OpenCompass**, **ELO-style Benchmarks**)  
 
 Always striving to bridge the gap between **research innovation** and **practical deployment** through experimentation and continuous learning.  
+
 ---
 
 ## 📄 Publication  
