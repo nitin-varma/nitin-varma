@@ -17,6 +17,13 @@ With a strong academic and professional foundation, I aim to drive innovation at
 - 💻 [GitHub](https://github.com/nitin-varma)  
 
 ---
+## 🧠 Tech Stack Focus  
+
+**Core Competencies:**  
+LLM Fine-Tuning (**LoRA**, **PEFT**, **QLoRA**) • Retrieval-Augmented Generation (**LangChain**, **Knowledge Graphs**) •  
+MLOps (**Airflow**, **MLflow**, **Docker**, **FastAPI**) • Cloud AI (**AWS**, **Snowflake**, **Triton**) •  
+Multi-Modal AI (**Vision-Language Integration**)  
+---
 
 ### 🧩 Featured Projects  
 
@@ -102,6 +109,19 @@ With a strong academic and professional foundation, I aim to drive innovation at
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
 
 
+---
+
+## 🔬 Learning & Research  
+
+I’m continuously expanding my expertise in emerging areas of **Applied AI** and **AI Infrastructure Engineering**.  
+
+**Currently Exploring:**  
+- 🧭 Reinforcement Learning from Human Feedback (**RLHF**)  
+- 🧠 Memory-Augmented Retrieval-Augmented Generation (**RAG**)  
+- ⚙️ Triton-based GPU Inference Optimization for Large Models  
+- 📊 LLM Evaluation Frameworks (**OpenCompass**, **ELO-style Benchmarks**)  
+
+Always striving to bridge the gap between **research innovation** and **practical deployment** through experimentation and continuous learning.  
 ---
 
 ## 📄 Publication  
