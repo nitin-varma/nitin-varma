@@ -5,7 +5,7 @@
 ### About Me  
 
 I’m a **Machine Learning and Generative AI Engineer** with a strong background in **neural networks, transformer-based architectures, and cloud-native engineering**.  
-Currently pursuing my **M.S. in Computer Software Engineering at Northeastern University (Boston)**, I specialize in building **scalable AI systems**, **multi-modal RAG architectures**, and **end-to-end data pipelines** that bridge **machine learning research and real-world deployment**.
+With a **Master's in Computer Software Engineering at Northeastern University (Boston)**, I specialize in building **scalable AI systems**, **multi-modal RAG architectures**, and **end-to-end data pipelines** that bridge **machine learning research and real-world deployment**.
 
 I’m passionate about advancing **Generative AI**, **LLM fine-tuning**, and **AI agent frameworks**, while leveraging **AWS, Snowflake, and Airflow** for reliable cloud orchestration.  
 With a strong academic and professional foundation, I aim to drive innovation at the intersection of **AI research and applied engineering**.
@@ -13,7 +13,6 @@ With a strong academic and professional foundation, I aim to drive innovation at
 - 💬 Always open to collaborations on **AI research papers**, **LLM fine-tuning**, and **RAG-based architectures**
 - 🔭 Exploring **Multi-modal AI Systems**, **Reinforcement Learning**, and **Knowledge Graph-integrated RAG**
 - 🌱 Currently deepening expertise in **Cloud-native AI infrastructure**, **Vector Databases**, and **Retrieval-Augmented Generation**
-- 📫 Reach me at: [nitinvarma9515@gmail.com](mailto:nitinvarma9515@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nitin-varma-indukuri/)  
 - 💻 [GitHub](https://github.com/nitin-varma)  
 
@@ -24,14 +23,23 @@ With a strong academic and professional foundation, I aim to drive innovation at
 - **[NVIDIA Multi-Modal Research Assistant](https://github.com/nitin-varma/NVIDIA-MultimodalResearchAssitant-main)**  
   Developed a multimodal RAG platform using **Airflow**, **FastAPI**, **Streamlit**, **Snowflake**, and **NVIDIA services** — automating ingestion, enhancing real-time summarization, and improving query efficiency by 70%.
 
-- **[ScriRAG — Scientific Retrieval-Augmented Generation Assistant](https://github.com/nitin-varma/ScriRAG--Scientific-Retreival-Augmented-Generation-Assistant)**  
-  Built a retrieval system combining **LLMs**, **RAG**, and **Knowledge Graphs** to deliver enriched, context-aware answers from research papers and scientific publications.
-
 - **[Fine-Tuning DistilBERT with LoRA for Stack Overflow Classification](https://github.com/nitin-varma/Fine-tuning-DistilBERT-with-LoRA-for-Stack-Overflow-Question-Classification)**  
   Fine-tuned **DistilBERT** using **LoRA** for multi-class text classification of Stack Overflow questions — achieving robust accuracy while maintaining computational efficiency.
 
 - **[Fine-Tuning RoBERTa for Multi-Label Classification](https://github.com/nitin-varma/Fine-Tuning-RoBerta-for-Multi-Label-Classification)**  
   Applied transfer learning on **RoBERTa** to classify multiple overlapping labels from Stack Overflow datasets — demonstrating strong recall and balanced F1 metrics.
+
+- **[ScriRAG — Scientific Retrieval-Augmented Generation Assistant](https://github.com/nitin-varma/ScriRAG--Scientific-Retreival-Augmented-Generation-Assistant)**  
+  Built a retrieval system combining **LLMs**, **RAG**, and **Knowledge Graphs** to deliver enriched, context-aware answers from research papers and scientific publications.
+
+- **[DSA Solver](https://github.com/nitin-varma/DSASolver)**  
+  A **Retrieval-Augmented Generation tool** designed to solve **Data Structures & Algorithms** problems using LLM-assisted reasoning and structured code generation.
+  
+- **[FinFluent](https://github.com/nitin-varma/FinFluent)**  
+  A **financial advisor agent** integrating **LLMs** and **vector-based document retrieval** to deliver personalized financial insights.
+
+- **[Cryptocurrency Advisor Agent](https://github.com/nitin-varma/Cryptocurrency-Advisor-Agent)**  
+  Built a real-time crypto insights agent using **LangChain**, **LLMs**, and **vector stores**, delivering portfolio advice through sentiment-aware responses.
 
 - **[Bigram Language Model and GPT](https://github.com/nitin-varma/Bigram-Language-Model-And-GPT)**  
   Implemented a transformer-based **GPT-like model from scratch**, training on text corpora to understand sequence prediction and self-attention dynamics.
@@ -39,27 +47,15 @@ With a strong academic and professional foundation, I aim to drive innovation at
 - **[Personal GPT Transformer](https://github.com/nitin-varma/Personal-Generative-PreTrained-Transformer)**  
   A complete implementation of a **Generative Pretrained Transformer** (GPT) built from scratch using **PyTorch**, focused on modular attention layers and token embeddings.
 
-- **[DSA Solver](https://github.com/nitin-varma/DSASolver)**  
-  A **Retrieval-Augmented Generation tool** designed to solve **Data Structures & Algorithms** problems using LLM-assisted reasoning and structured code generation.
-
-- **[FinFluent](https://github.com/nitin-varma/FinFluent)**  
-  A **financial advisor agent** integrating **LLMs**, **Plaid APIs**, and **vector-based document retrieval** to deliver personalized financial insights.
-
-- **[Cryptocurrency Advisor Agent](https://github.com/nitin-varma/Cryptocurrency-Advisor-Agent)**  
-  Built a real-time crypto insights agent using **LangChain**, **LLMs**, and **vector stores**, delivering portfolio advice through sentiment-aware responses.
-
 ---
 
-### 🧠 Key Research & ML Projects  
-
-- **[Edge-Aware Molecule](https://github.com/nitin-varma/Edge-Aware-Molecule)**  
-  Implemented a graph-based transformer model for molecular property prediction, leveraging **GNNs** and **edge-aware message passing** for chemical structure analysis.
-
-- **[Brain Tumor Segmentation using U-Net](https://github.com/nitin-varma/Brain-Tumor-Segmentation-using-U-Net)**  
-  Designed a **custom U-Net** model for MRI tumor segmentation, improving **Dice Score by 37% (0.475 → 0.650)** and achieving **IoU up to 0.85** through batch-normalized DoubleConv blocks.
+### 🧠 ML Projects  
 
 - **[Meteorological Forecasting over Lake Michigan](https://github.com/nitin-varma/Meteorological-Forecasting-over-Lake-Michigan)**  
   Integrated **ConvLSTM2D** with time-series RNNs to predict precipitation from **GOES satellite imagery**, achieving an **85% classification accuracy**.
+  
+- **[Brain Tumor Segmentation using U-Net](https://github.com/nitin-varma/Brain-Tumor-Segmentation-using-U-Net)**  
+  Designed a **custom U-Net** model for MRI tumor segmentation, improving **Dice Score by 37% (0.475 → 0.650)** and achieving **IoU up to 0.85** through batch-normalized DoubleConv blocks.
 
 - **[Crop Yield Prediction and Analysis](https://github.com/nitin-varma/Crop-Yield-Analysis-and-Prediction-Hackathon-Submission-)**  
   Developed predictive models integrating meteorological and soil data to forecast crop yields with high reliability for agricultural planning.
@@ -72,6 +68,9 @@ With a strong academic and professional foundation, I aim to drive innovation at
 
 - **[Food Inspection Data Engineering and Analytics](https://github.com/nitin-varma/Food-Inspection-Data-Engineering-and-Analytics)**  
   Built an **ETL pipeline** using **Talend + SQL + Tableau** to analyze 100K+ food inspection records, improving data processing time by 40% and identifying public health hotspots.
+  
+- **[Edge-Aware Molecule](https://github.com/nitin-varma/Edge-Aware-Molecule)**  
+  Implemented a graph-based transformer model for molecular property prediction, leveraging **GNNs** and **edge-aware message passing** for chemical structure analysis.
 
 ---
 
@@ -102,19 +101,6 @@ With a strong academic and professional foundation, I aim to drive innovation at
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
 
----
-
-## 💼 Professional Experience  
-
-<img src="Companies/AlgoTrade_logo.png" alt="AlgoTrade Logo" style="width:auto; height:130px;"/>
-
-### _Quantitative Research Intern_  
-*March 2023 – July 2023*  
-
-- Built **LSTM-based regression and classifier models** for stock price forecasting, improving predictive accuracy for BankNifty trends.  
-- Automated **data collection and model backtesting pipelines**, boosting research productivity by 25%.  
-- Deployed **Python- and R-based trading scripts**, achieving **15–30% trading profit margins** with 12% annualized returns.  
-- Presented research findings using **PowerBI dashboards**, contributing to data-driven investment strategies.  
 
 ---
 
@@ -130,5 +116,4 @@ With a strong academic and professional foundation, I aim to drive innovation at
 ### 🤝 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/nitin-varma-indukuri/)  
 - [GitHub](https://github.com/nitin-varma)  
-- [Email](mailto:nitinvarma9515@gmail.com)
 
